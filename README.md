@@ -14,6 +14,10 @@
 * Do not use scaled video output – stream with the canvas size.
 * Turn on recordings in Twitch as well as in OBS.
 
+### Twitch
+
+* Timestamps for Twitch videos: [`?t=01h01m01s`](https://www.reddit.com/r/Kappa/comments/29a47v/psa_when_you_link_to_a_twitch_stream_heres_how_to/)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
