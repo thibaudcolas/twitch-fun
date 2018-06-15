@@ -23,6 +23,10 @@
 -   Timestamps for Twitch videos: [`?t=01h01m01s`](https://www.reddit.com/r/Kappa/comments/29a47v/psa_when_you_link_to_a_twitch_stream_heres_how_to/)
 -   Channel art: 16:9, `1920x1080`
 
+#### Guides
+
+-   Reddit: [A Guide to Streaming and Finding Success on Twitch](https://www.reddit.com/r/Twitch/comments/4eyva6/a_guide_to_streaming_and_finding_success_on_twitch/), [Part 2: Equipment and Software](https://www.reddit.com/r/Twitch/comments/4ft9xn/a_guide_to_streaming_and_finding_success_on/)
+
 ### ffmpeg
 
 -   Truncate video: `ffmpeg -i input.mp4 -ss hhfrom:mm:ss -to hhto:mm:ss -c copy output.mp4`
