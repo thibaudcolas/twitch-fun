@@ -21,7 +21,14 @@
 > Channel: https://www.twitch.tv/thibaudcolas
 
 -   Timestamps for Twitch videos: [`?t=01h01m01s`](https://www.reddit.com/r/Kappa/comments/29a47v/psa_when_you_link_to_a_twitch_stream_heres_how_to/)
--   Channel art: 16:9, `1920x1080`
+
+#### Banner
+
+16:9, `1920x1080` at most. Available space for 600px (lowest at which the Watch Now overlay is displayed), and 1920x1080 (highest).
+
+[![Twitch banner 600px](images/twitch-banner-600px-green.png)](images/twitch-banner-600px-green.png)
+
+[![Twitch banner 1920x1080](images/twitch-banner-1920x1080-green.png)](images/twitch-banner-1920x1080-green.png)
 
 #### Guides
 
